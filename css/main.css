@@ -16,14 +16,14 @@ Imports:
 */
 
 /* Imports */
-@import url("https://bo8ek.github.io/Dubtrack/css/chatright.csss"); /* Chat completely to the right */
-@import url("https://bo8ek.github.io/Dubtrack/css/videosmall.css"); /* Small video */
-@import url("https://bo8ek.github.io/Dubtrack/css/skynet.css"); /* Better recognizable Room BOTs */
-@import url("https://bo8ek.github.io/Dubtrack/css/phonefix.css"); /* Phone Fixes */
-@import url("https://bo8ek.github.io/Dubtrack/css/animations.css"); /* Pack of animations */
+@import url("https://github.netux.ml/css/chatright.css"); /* Chat completely to the right */
+@import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
+@import url("https://github.netux.ml/css/skynet.css"); /* Better recognizable Room BOTs */
+@import url("https://github.netux.ml/css/phonefix.css"); /* Phone Fixes */
+@import url("https://github.netux.ml/css/animations.css"); /* Pack of animations */
 @import url("https://hebgbs.github.io/rainbowNB3.css"); /* Rainbow video progress bar */
-@import url("https://bo8ek.github.io/Dubtrack/css/browserbetter.css"); /* Modified Browser */
-@import url("https://bo8ek.github.io/Dubtrack/css/roomformbetter.css"); /* Modified Room Form */
+@import url("https://github.netux.ml/css/browserbetter.css"); /* Modified Browser */
+@import url("https://github.netux.ml/css/roomformbetter.css"); 
 
 /* Video next to chat */
 @media screen and (min-width: 72em) {
